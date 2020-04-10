@@ -27,11 +27,11 @@ import java.util.List;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
-    int flag = 0;
+    static int flag = 0;
     String S;
 
-    public String homelat ="";
-    public String homelong = "";
+    public static String homelat ="";
+    public static String homelong = "";
 
     LocationManager locationManager;
     LocationListener locationListener;
