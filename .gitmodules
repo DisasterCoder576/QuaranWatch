@@ -1,0 +1,3 @@
+[submodule "LocTag"]
+	path = LocTag
+	url = https://github.com/CrzyGamer01/LocTag.git
