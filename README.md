@@ -1,16 +1,6 @@
 # FINAL1
 
-######IMPORTANT 
 
-Regarding Video: Due to editing issues, we arent really pro with editing, the video got cut into half but it still covers the major part of it. Kindly request you to not get disgusted by the quality of video since it was a editing fault which wasnt really our arena. Kindly excuse.
-
-
-WE HAVE EDITED THE VIDEO PROPERLY AS : https://youtu.be/dfWjwT5DXmg
-
-Its the same video but in portrait mode so that the full app is seen. Kindly check thiws out.
-
-
-READ BEFORE PROCEEDING #########
 
 THIS REPOSITORY CONTAINS MULTIPLE PROJECTS
 
